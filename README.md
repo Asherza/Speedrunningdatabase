@@ -1,2 +1,2 @@
-# Speedrunningc database
+# Speedrunning database
 An SQL script to generate a database a potential speedrunning website. 
