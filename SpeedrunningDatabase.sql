@@ -1,5 +1,5 @@
 --Written by Asher Straubing
---Scripts at bottem can be ran on s3's tables and information
+--Scripts at bottem can be ran on an SQL database
 -- 4/21/2017
 
 -- Here I droped the tables in order of Child then parent. 
